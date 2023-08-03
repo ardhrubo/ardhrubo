@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ardhrubo
 - 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning web development and python.
+- 🌱 I’m currently learning web development.
+-  Learning PHP
