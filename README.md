@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ardhrubo
-- 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning web development.
--  Learning PHP
+- 👋 Hi, This is @ardhrubo
+- 👀 I’m a WordPress developer.
+- 🌱 Specialty in WordPress support.
+- I work with PHP and js. 
