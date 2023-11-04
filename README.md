@@ -7,8 +7,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![WordPress Version](https://img.shields.io/badge/WordPress-5.x-green)](https://wordpress.org/)
-[![Coursera]([url=https://seekvectorlogo.com/coursera-vector-logo-svg/])](https://www.coursera.org/learner/ardhrubo)
-[![GitHub Forks](https://img.shields.io/github/forks/your-username/repo-name?style=social)](https://github.com/your-username/repo-name/network/members)
+[![GitHub Forks](https://img.shields.io/github/forks/your-username/repo-name?style=social)]([https://github.com/your-username/repo-name/network/members](https://github.com/ardhrubo/portfoliosite))
 [![GitHub Issues](https://img.shields.io/github/issues/your-username/repo-name)](https://github.com/your-username/repo-name/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/your-username/repo-name)](https://github.com/your-username/repo-name/pulls)
 
