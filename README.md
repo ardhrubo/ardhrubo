@@ -14,7 +14,7 @@
 
 ## Description
 
-A brief and engaging description of your WordPress project. Explain what it does and why it's useful.
+
 
 ## Table of Contents
 
