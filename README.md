@@ -1,17 +1,16 @@
-```markdown
-# Hello, World! 👋 I'm @ardhrubo, your go-to WordPress Wizard! 🧙‍♂️
+# Hi there 👋, I'm @ardhrubo!
 
-Welcome to the magical world of WordPress development! As a seasoned **WordPress Support Engineer**, I specialize in conjuring up custom addons, widgets, and plugins that bring your WordPress dreams to life.
+I'm a dedicated and passionate **WordPress Support Engineer** specializing in the development of custom addons, widgets, and plugins. With a strong foundation in **PHP** and **JavaScript**, I strive to create efficient and effective solutions for WordPress platforms.
 
-## My Magic Tools 🧰
+## What I'm up to 🌱
 
-Armed with the power of **PHP** and **JavaScript**, I craft unique solutions that enhance the functionality and user experience of WordPress platforms. My spells are cast with precision and creativity, ensuring your WordPress site stands out from the crowd.
+Currently, I'm honing my skills in custom development for WordPress, focusing on creating unique addons, widgets, and plugins that enhance user experience and platform functionality.
 
-## My Quest 🌱
+## How I work 💻
 
-I'm on a never-ending quest for knowledge and improvement. Currently, I'm delving deeper into the realm of WordPress, focusing on creating innovative addons, widgets, and plugins that push the boundaries of what's possible.
+My work revolves around PHP and JavaScript, two powerful languages that allow me to bring my ideas to life in the WordPress ecosystem. I enjoy the problem-solving aspect of coding and the satisfaction that comes from overcoming challenges.
 
-## Join Me on this Adventure 🚀
+## Let's Connect 🌐
 
-I believe in the power of collaboration and am always open to joining forces with fellow adventurers. If you're as passionate about WordPress development as I am, or if you have a project that could use a touch of magic, don't hesitate to reach out. Let's create something extraordinary together!
-```
+I'm always open to collaborating on projects and innovative solutions. If you're interested in what I do or have a project in mind that you think we could collaborate on, feel free to reach out!
+
