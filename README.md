@@ -1,16 +1,28 @@
-# Hi there 👋, I'm @ardhrubo!
+# Hello, World! 👋 I'm @ardhrubo, your WordPress Enthusiast!
 
-I'm a dedicated and passionate **WordPress Support Engineer** specializing in the development of custom addons, widgets, and plugins. With a strong foundation in **PHP** and **JavaScript**, I strive to create efficient and effective solutions for WordPress platforms.
+Welcome to my world of WordPress development! As a dedicated **WordPress Support Engineer**, I specialize in crafting custom addons, widgets, and plugins that bring your WordPress vision to life.
 
-## What I'm up to 🌱
+## My Tech Stack 💻
 
-Currently, I'm honing my skills in custom development for WordPress, focusing on creating unique addons, widgets, and plugins that enhance user experience and platform functionality.
+I work with a variety of technologies on a daily basis to create efficient and effective solutions for WordPress platforms. Here's a glimpse of my tech stack:
 
-## How I work 💻
+- **WordPress**: My playground for developing custom addons, widgets, and plugins.
+- **PHP**: My go-to server-side scripting language for backend development.
+- **JavaScript**: My tool for creating interactive and dynamic user experiences on the frontend.
 
-My work revolves around PHP and JavaScript, two powerful languages that allow me to bring my ideas to life in the WordPress ecosystem. I enjoy the problem-solving aspect of coding and the satisfaction that comes from overcoming challenges.
+
+<div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" style="width: 100px; height: 100px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/200px-PHP-logo.svg.png" style="width: 100px; height: 100px;">
+</div>
+
+
+
+
+## My Current Adventure 🌱
+
+I'm currently on an exciting journey, honing my skills in custom development for WordPress. I'm focusing on creating unique addons, widgets, and plugins that enhance user experience and platform functionality.
 
 ## Let's Connect 🌐
 
-I'm always open to collaborating on projects and innovative solutions. If you're interested in what I do or have a project in mind that you think we could collaborate on, feel free to reach out!
-
+I believe in the power of collaboration and am always open to new opportunities. If you're interested in what I do or have a project in mind that you think we could collaborate on, feel free to reach out! Let's create something amazing together.
