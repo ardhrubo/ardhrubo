@@ -1,48 +1,15 @@
-- 👋 Hi, This is @ardhrubo
-- 👀 I’m a WordPress Support engineer.
-- 🌱 Specialty in Custom addons,widget and plugin development.
-- I work with PHP and js. 
+# Hi there 👋, I'm @ardhrubo!
 
-# WordPress Project Name
+I'm a dedicated and passionate **WordPress Support Engineer** specializing in the development of custom addons, widgets, and plugins. With a strong foundation in **PHP** and **JavaScript**, I strive to create efficient and effective solutions for WordPress platforms.
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![WordPress Version](https://img.shields.io/badge/WordPress-5.x-green)](https://wordpress.org/)
-[![GitHub Forks](https://img.shields.io/github/forks/your-username/repo-name?style=social)]([https://github.com/your-username/repo-name/network/members](https://github.com/ardhrubo/portfoliosite))
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/repo-name)](https://github.com/your-username/repo-name/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/your-username/repo-name)](https://github.com/your-username/repo-name/pulls)
+## What I'm up to 🌱
 
-## Description
+Currently, I'm honing my skills in custom development for WordPress, focusing on creating unique addons, widgets, and plugins that enhance user experience and platform functionality.
 
+## How I work 💻
 
+My work revolves around PHP and JavaScript, two powerful languages that allow me to bring my ideas to life in the WordPress ecosystem. I enjoy the problem-solving aspect of coding and the satisfaction that comes from overcoming challenges.
 
-## Table of Contents
+## Let's Connect 🌐
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [WordPress Basics](#wordpress-basics)
-- [Development and Support](#development-and-support)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
-
-- List key features of your WordPress project.
-- Use bullet points for clarity.
-- Keep it concise and enticing.
-
-## Getting Started
-
-Provide a beginner-friendly introduction to your project, explaining how users can get started.
-
-      
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ardhrubo" target="_blank">Follow on LinkedIn</a>
-### Prerequisites
-
-List any prerequisites or system requirements for using your WordPress project.
-
-```markdown
-- WordPress (Version 5.x or higher)
-- A web server (e.g., Apache, Nginx)
-- PHP (Version 7.x or higher)
-- MySQL database
+I'm always open to collaborating on projects and innovative solutions. If you're interested in what I do or have a project in mind that you think we could collaborate on, feel free to reach out!
