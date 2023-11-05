@@ -17,8 +17,6 @@ I work with a variety of technologies on a daily basis to create efficient and e
 </div>
 
 
-
-
 ## My Current Adventure 🌱
 
 I'm currently on an exciting journey, honing my skills in custom development for WordPress. I'm focusing on creating unique addons, widgets, and plugins that enhance user experience and platform functionality.
@@ -26,3 +24,8 @@ I'm currently on an exciting journey, honing my skills in custom development for
 ## Let's Connect 🌐
 
 I believe in the power of collaboration and am always open to new opportunities. If you're interested in what I do or have a project in mind that you think we could collaborate on, feel free to reach out! Let's create something amazing together.
+
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/ardhrubo/)
+
+
