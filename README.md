@@ -28,7 +28,7 @@ I believe in the power of collaboration and am always open to new opportunities.
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/ardhrubo/)
 
-<h1 align="center"> Want to here a joke? </h1>
+<h1 align="center"> Want to here a joke? 😄 </h1>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
