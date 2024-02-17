@@ -23,9 +23,10 @@ I use these technologies to build effective WordPress solutions:
 
 My journey in WordPress continues! Right now, I'm focused on unlocking the secrets of:
 
-Powerful plugins: Advanced plugin architecture? Bring it on! I'm building complex solutions that push the boundaries of what WordPress can do.
-Laravel mastery: Expanding my skillset with Laravel to unlock even more possibilities for custom development.
-Cloud mastery: Exploring the potential of AWS and Azure to ensure my solutions are efficient and scalable.
+- **Powerful plugins: Advanced plugin architecture? Bring it on! I'm building complex solutions that push the boundaries of what WordPress can do.**
+- **Laravel mastery: Expanding my skillset with Laravel to unlock even more possibilities for custom development.**
+- **Cloud mastery: Exploring the potential of AWS and Azure to ensure my solutions are efficient and scalable.**
+  
 Join me on this exciting adventure as I create innovative tools that empower businesses and content creators! ✨
 
 ## Let's Connect 🌐
