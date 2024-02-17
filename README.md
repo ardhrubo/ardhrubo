@@ -10,10 +10,12 @@ I use these technologies to build effective WordPress solutions:
 - **PHP (backend functionality)**
 - **JavaScript (frontend interactivity)**
 
-<div style="display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" style="width: 100px; height: 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/200px-PHP-logo.svg.png" style="width: 100px; height: 100px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" style="width: 100px; height: 100px; align-self: center;" alt="JavaScript Logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/200px-PHP-logo.svg.png" style="width: 100px; height: 100px; align-self: center;" alt="PHP Logo">
+
 </div>
+
 
 
 ## My Current Adventure 🌱
