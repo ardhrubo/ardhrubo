@@ -1,6 +1,6 @@
 # Hello, World!  I'm @ardhrubo
 
-I'm a WordPress enthusiast with a passion for creating custom addons, widgets, and plugins that enhance user experience and platform functionality. I'm also exploring cloud platforms like Azure and AWS.
+I'm a WordPress enthusiast with a passion for creating custom addons, widgets, and plugins that enhance user experience and platform functionality. I'm also exploring cloud comuting with platforms like Azure and AWS.
 
 ## My Tech Stack  💻
 
