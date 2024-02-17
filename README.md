@@ -1,15 +1,14 @@
-# Hello, World! 👋 I'm @ardhrubo, your WordPress Enthusiast!
+# Hello, World!  I'm @ardhrubo
 
-Welcome to my world of WordPress development! As a dedicated **WordPress Support Engineer**, I specialize in crafting custom addons, widgets, and plugins that bring your WordPress vision to life.
+I'm a WordPress enthusiast with a passion for creating custom addons, widgets, and plugins that enhance user experience and platform functionality. I'm also exploring cloud platforms like Azure and AWS.
 
-## My Tech Stack 💻
+## My Tech Stack  💻
 
-I work with a variety of technologies on a daily basis to create efficient and effective solutions for WordPress platforms. Here's a glimpse of my tech stack:
+I use these technologies to build effective WordPress solutions:
 
-- **WordPress**: My playground for developing custom addons, widgets, and plugins.
-- **PHP**: My go-to server-side scripting language for backend development.
-- **JavaScript**: My tool for creating interactive and dynamic user experiences on the frontend.
-
+- **WordPress (core + custom development)**
+- **PHP (backend functionality)**
+- **JavaScript (frontend interactivity)**
 
 <div style="display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" style="width: 100px; height: 100px;">
@@ -19,7 +18,7 @@ I work with a variety of technologies on a daily basis to create efficient and e
 
 ## My Current Adventure 🌱
 
-I'm currently on an exciting journey, honing my skills in custom development for WordPress. I'm focusing on creating unique addons, widgets, and plugins that enhance user experience and platform functionality.
+I'm currently on an exciting journey, honing my skills in custom development for WordPress. I'm focusing on creating unique addons, widgets, and plugins that enhance user experience and platform functionality. Focusing on Cloud Computing like azure, aws and so on.
 
 ## Let's Connect 🌐
 
