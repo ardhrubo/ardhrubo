@@ -9,6 +9,7 @@ I use these technologies to build effective WordPress solutions:
 - **WordPress (core + custom development)**
 - **PHP (backend functionality)**
 - **JavaScript (frontend interactivity)**
+- - **Node.js (Backend)**
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" style="width: 100px; height: 100px; align-self: center;" alt="JavaScript Logo">
