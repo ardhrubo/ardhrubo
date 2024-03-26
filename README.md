@@ -1,5 +1,21 @@
 ## Hello, World! 👋 I'm @ardhrubo, a backend developer expert in Node.js.
 
+<p align="center">
+<a href="https://github.com/ardhrubo/github-readme-stats/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ardhrubo/github-readme-stats" /></a>
+<a href="https://codecov.io/gh/ardhrubo/github-readme-stats">
+    <img alt="Tests Coverage" src="https://codecov.io/gh/ardhrubo/github-readme-stats/branch/master/graph/badge.svg" /></a>
+<a href="https://github.com/ardhrubo/github-readme-stats/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/ardhrubo/github-readme-stats?color=0088ff" /></a>
+<a href="https://github.com/ardhrubo/github-readme-stats/pulls">
+  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ardhrubo/github-readme-stats?color=0088ff" /></a>
+<a href="https://securityscorecards.dev/viewer/?uri=github.com/ardhrubo/github-readme-stats">
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ardhrubo/github-readme-stats/badge" /></a>
+<a href="https://github.com/ardhrubo/ardhrubo/commits">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ardhrubo/ardhrubo" /></a>
+</p>
+
+
 ### Tech Stack that I use frequently 💻
 <table align="center">
   <tr>
@@ -44,4 +60,6 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ardhrubo/ardhrubo)
