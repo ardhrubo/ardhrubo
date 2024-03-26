@@ -1,4 +1,6 @@
-# Hello, World!  I'm @ardhrubo a backend developer expert in node.js.
+## Hello, World!  I'm @ardhrubo a backend developer expert in node.js
+
+
 
 ## Tech Stack that I use frequently  💻
 - **Node.js (Backend)**
@@ -33,7 +35,11 @@ Join me on this exciting adventure as I create innovative tools that empower bus
 
 ## Let's Connect 🌐
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/ardhrubo/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ardhrubo/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" />
+  </a>
+</p>
 
 <h1 align="center"> Would like to here a joke? 😄 </h1>
 <p align="center">
