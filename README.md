@@ -40,11 +40,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ardhrubo/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" style="width: 100px;"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" style="width: 100px;"/></a>
   <a href="https://twitter.com/ARDhrubo2">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" alt="Twitter" style="width: 100px;"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" alt="Twitter" style="width: 100px;"/></a>
 </p>
 
 <h1 align="center"> Would like to here a joke? 😄 </h1>
