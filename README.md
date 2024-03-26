@@ -2,9 +2,8 @@
 
 ### Tech Stack that I use frequently 💻
 
-<p align="center">
-    <div style="display: flex; flex-wrap: nowrap; border: 1px solid #ddd; padding: 10px; margin: 10px; overflow-x: auto;">
-        <div style="display: inline-block; border-right: 1px solid #ddd; padding-right: 10px; margin-right: 10px;">
+
+ <div style="display: inline-block; border-right: 1px solid #ddd; padding-right: 10px; margin-right: 10px;">
             <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="100px" style="margin-bottom: 5px;"></a><br>
             <span style="font-size: 14px;">Node.js</span>
         </div>
@@ -35,9 +34,7 @@
         <div style="display: inline-block; border-right: 1px solid #ddd; padding-right: 10px; margin-right: 10px;">
             <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="Redis Logo" width="100px" style="margin-bottom: 5px;"></a><br>
             <span style="font-size: 14px;">Redis</span>
-        </div>
-    </div>
-</p>
+      </div>
 
 
 ### My Current Adventure 🌱
