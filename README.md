@@ -60,6 +60,5 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhrubo\&layout=pie)](https://github.com/ardhrubo/github-readme-stats)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ardhrubo/ardhrubo)
