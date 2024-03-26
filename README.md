@@ -16,7 +16,10 @@
 </p>
 
 
-### Tech Stack that I use frequently 💻
+<p align="center">
+    Tech Stack that I use frequently 💻
+</p>
+
 <table align="center">
   <tr>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="100px"></td>
@@ -33,18 +36,6 @@
 </table>
 
 
-### My Current Adventure 🌱
-- **Automation**
-- **SQA**
-- **Data Scraping**
-
-
-
-## Leveling Up! ⚔️
-- **Cyber Security**
-- **Web3**
-- **Smart Contact**
-- **Solidity**
 
 ## Let's Connect 🌐
 
@@ -55,10 +46,23 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" alt="Twitter" style="width: 100px;"/></a>
 </p>
 
+
+
 <h1 align="center"> Would like to here a joke? 😄 </h1>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhrubo\&layout=pie)](https://github.com/ardhrubo/github-readme-stats)
+<p align="center">
+  <h2>🚀 My Current Adventure</h2>
+
+  | **Exploring**             | **Leveling Up!**           |
+  |---------------------------|----------------------------|
+  | - Automation              | - Cyber Security           |
+  | - SQA                     | - Web3                     |
+  | - Data Scraping           | - Smart Contract           |
+  | - Golang                  | - Solidity                 |
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhrubo&layout=compact&langs_count=6)](https://github.com/ardhrubo/github-readme-stats)
+</p>
 
