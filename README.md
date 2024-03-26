@@ -24,7 +24,6 @@
 
 
 ### My Current Adventure 🌱
-- **Cyber Security**
 - **Automation**
 - **SQA**
 - **Data Scraping**
@@ -32,6 +31,10 @@
 
 
 ## Leveling Up! ⚔️
+- **Cyber Security**
+- **Web3**
+- **Smart Contact**
+- **Solidity**
 
 ## Let's Connect 🌐
 
