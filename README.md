@@ -47,7 +47,6 @@
   </a>
 </p>
 
-
 <h1 align="center"> Would like to here a joke? 😄 </h1>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
