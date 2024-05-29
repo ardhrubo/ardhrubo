@@ -1,5 +1,4 @@
-## Hello, World! 👋 I'm @ardhrubo, a backend developer expert in Node.js. But right now learning Qiskit for building Quantum Computer
-
+## Hello, World! 👋 I'm @ardhrubo, a backend developer expert in Node.js. 
 ![D-L-B](https://github.com/ardhrubo/ardhrubo/assets/112472739/42864bda-9d8a-4901-876b-10cf48b93ff2)
 
 <p align="center">
