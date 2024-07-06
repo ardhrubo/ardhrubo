@@ -62,7 +62,7 @@
   | - Automation              | - Cyber Security           |
   | - SQA                     | - Web3                     |
   | - Data Scraping           | - Smart Contract           |
-  | - Golang                  | - Solidity                 |
+  | - Golang                  | - Quantum Computing              |
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhrubo&layout=compact&langs_count=6)](https://github.com/ardhrubo/github-readme-stats)
 </p>
