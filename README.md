@@ -1,4 +1,5 @@
-## Hello, World! 👋 I'm @ardhrubo, a Software Engnieer working on automation. 
+## Hello, World! 👋 I'm @ardhrubo, a Software Engnieer at Data Automators.
+Generally work as full stack developer.
 ![D-L-B](https://github.com/ardhrubo/ardhrubo/assets/112472739/42864bda-9d8a-4901-876b-10cf48b93ff2)
 
 <p align="center">
