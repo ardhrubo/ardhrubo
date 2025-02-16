@@ -1,5 +1,9 @@
 ## Hello, World! 👋 I'm @ardhrubo, a Software Engnieer at Data Automators.
-Generally work as full stack developer. I love to play with Javascript,puppteer and docker.
+
+I have been building SaaS products to stramline web automation and scraping more easier and affordable.
+
+Feel free to reach out if you'd like to talk about Docker, Puppeteer, Node.js, Elysia, Caddy, or Next.js.
+
 ![D-L-B](https://github.com/ardhrubo/ardhrubo/assets/112472739/42864bda-9d8a-4901-876b-10cf48b93ff2)
 
 <p align="center">
