@@ -1,6 +1,6 @@
 ## Hello, World! 👋 I'm @ardhrubo, a Software Engineer at Data Automators.
 
-- 🔍  I love experimenting with new ideas and technologies. I do a lots of research to develop new product and feature ⚗️!
+- 🔍  I love experimenting with new ideas and technologies.⚗️ I do a lots of research to develop new product and feature !
 - ☁️  I have been building SaaS solutions that streamline web automation and make data scraping both efficient and affordable.
 - 💬  I would like to talk about Docker, Puppeteer, Node.js, Elysia, Caddy, or Next.js, feel free to reach out.
 
