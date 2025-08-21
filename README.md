@@ -1,10 +1,9 @@
-# 👋 Hello, World! I'm @ardhrubo  
+## 👋 Hello, World! I'm @ardhrubo  
 
 💻 Software Engineer @ Data Automators | Chemistry Grad ⚛️ |  Curious Builder 💡 | Problem Solver ⚙️
 
-Thanks for stopping by my GitHub. If you’re also curious about how things work, we already have something in common.
 
-## Would like to know more About Me ? 
+### Would like to know more About Me ? 
 I’m the kind of person who always tries to **understand the world**.  
 For me, learning is a way to uncover how things really behave — whether that’s in science, technology, or everyday life.  
 
@@ -104,3 +103,5 @@ I’m trying to bring **science + technology** together:
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>  
+
+### Anyway,Thanks for stopping by my GitHub. If you’re also curious about how things work, we already have something in common. ❤️
