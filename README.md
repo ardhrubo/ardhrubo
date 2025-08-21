@@ -1,4 +1,4 @@
-## 👋 Hello, World! I'm @ardhrubo  
+## Hello, World ! I'm @ardhrubo  
 
 💻 Software Engineer @ Data Automators | Chemistry Grad ⚛️ |  Curious Builder 💡 | Problem Solver ⚙️
 
