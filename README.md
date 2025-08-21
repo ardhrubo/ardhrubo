@@ -1,75 +1,107 @@
-## Hello, World! 👋 I'm @ardhrubo, a Software Engineer at Data Automators.
+# 👋 Hello, World! I'm @ardhrubo  
 
-- 🔍  I love experimenting with new ideas and technologies.⚗️ I do a lots of research to develop new product and feature !
-- ☁️  I have been building SaaS solutions that streamline web automation and make data scraping both efficient and affordable.
-- 💬  I would like to talk about Docker, Puppeteer, Node.js, Elysia, Caddy, or Next.js, feel free to reach out.
+💻 Software Engineer @ Data Automators | ⚗️ Chemistry Grad | 🚀 Curious Builder  
 
-![D-L-B](https://github.com/ardhrubo/ardhrubo/assets/112472739/42864bda-9d8a-4901-876b-10cf48b93ff2)
+
+## About Me 
+I’m the kind of person who always tries to **understand the world**.  
+For me, learning is a way to uncover how things really behave — whether that’s in science, technology, or everyday life.  
+
+
+I chose **Chemistry** for my Bachelor’s degree to dive into the **microscopic world**.  
+My thought was simple:  
+
+If I can understand how the microscopic world works, it will help me understand the macroscopic world even better.  
+
+From atoms to molecules, from bonds to reactions — Chemistry has shown me the hidden rules of nature.  
+
+Alongside Chemistry, I wanted to know how **computers** actually function.  
+
+- How a single **transistor** changed the world  
+- How transistors form **logic gates**  
+- How logic gates build **registers**  
+- How registers power a **CPU**  
+
+That curiosity pulled me into **programming and software development**.  
+Now, I see coding like chemistry — small building blocks combining into powerful systems.  
+
+
+##  Where I Am Now 
+I’m trying to bring **science + technology** together:  
+
+- ⚗️ **Chemistry** → to understand the rules of nature  
+- 💻 **Programming** → to build, automate, and explore ideas with tech  
+
+🔹 Working on **automation, web apps, and scraping**  
+🔹 Teaching & writing about **Chemistry** in English & Bangla  
+🔹 Exploring **AI, EdTech, and computational chemistry**  
+
+
+## 🛠️ Tech & Tools I Use  
 
 <p align="center">
-<a href="https://github.com/ardhrubo/github-readme-stats/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ardhrubo/github-readme-stats" /></a>
-<a href="https://codecov.io/gh/ardhrubo/github-readme-stats">
-    <img alt="Tests Coverage" src="https://codecov.io/gh/ardhrubo/github-readme-stats/branch/master/graph/badge.svg" /></a>
-<a href="https://github.com/ardhrubo/github-readme-stats/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/ardhrubo/github-readme-stats?color=0088ff" /></a>
-<a href="https://github.com/ardhrubo/github-readme-stats/pulls">
-  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ardhrubo/github-readme-stats?color=0088ff" /></a>
-<a href="https://securityscorecards.dev/viewer/?uri=github.com/ardhrubo/github-readme-stats">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/ardhrubo/github-readme-stats/badge" /></a>
-<a href="https://github.com/ardhrubo/ardhrubo/commits">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ardhrubo/ardhrubo" /></a>
-</p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</p>  
 
+
+## 📊 GitHub Stats  
 
 <p align="center">
-    Tech Stack that I use frequently 💻
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ardhrubo&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardhrubo&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>  
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="100px"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" width="100px"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100px"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo" width="100px"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_(container_engine)_logo.png" alt="Docker Logo" width="100px"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB Logo" width="100px"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="100px"></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="Redis Logo" width="100px"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhrubo&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+</p>  
 
 
+## 🌱 Current Adventures  
 
-## Let's Connect 🌐
+| **Exploring**       | **Leveling Up**       |
+|----------------------|-----------------------|
+| - Automation         | - Cyber Security      |
+| - SQA               | - Web3                |
+| - Data Scraping      | - Smart Contracts     |
+| - Golang             | - Quantum Computing   |  
+
+
+## 🌐 Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ardhrubo/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" style="width: 100px;"/></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+    
   <a href="https://twitter.com/ARDhrubo2">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" alt="Twitter" style="width: 100px;"/></a>
-</p>
+    <img src="https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white&style=for-the-badge" />
+  </a>
+    
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>  
 
 
+## ☕ Wanna give a little suppor ?
 
-<h1 align="center"> Would like to here a joke? 😄 </h1>
+<a href="https://www.buymeacoffee.com/ardhrubo" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="50" />
+</a>  
+
+
+## 😄 Wanna here a Jokes ?
+
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>  
 
-<p align="center">
-  <h2>🚀 My Current Adventure</h2>
-
-  | **Exploring**             | **Leveling Up!**           |
-  |---------------------------|----------------------------|
-  | - Automation              | - Cyber Security           |
-  | - SQA                     | - Web3                     |
-  | - Data Scraping           | - Smart Contract           |
-  | - Golang                  | - Quantum Computing              |
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhrubo&layout=compact&langs_count=6)](https://github.com/ardhrubo/github-readme-stats)
-</p>
-<a href="https://www.buymeacoffee.com/ardhrubo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
+✨ Anyway,thanks for stopping by my GitHub. If you’re also curious about how things work, we already have something in common.  
