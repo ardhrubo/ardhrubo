@@ -3,7 +3,7 @@
 💻 Software Engineer @ Data Automators | Chemistry Grad ⚛️ |  Curious Builder 💡 | Problem Solver ⚙️
 
 
-### A Little Info About Me -
+## Thyself
 
 I’m the kind of person who always tries to **understand the world**.  
 For me, learning is a way to uncover how things really behave whether that’s in science, technology, or everyday life.  
