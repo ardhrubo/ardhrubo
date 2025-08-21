@@ -26,7 +26,7 @@ That curiosity pulled me into **programming and software development**.
 Now, I see coding like chemistry — small building blocks combining into powerful systems.  
 
 
-##  Where I Am Now 
+##  Where Am I Now ? 
 I’m trying to bring **science + technology** together:  
 
 - ⚗️ **Chemistry** → to understand the rules of nature  
