@@ -4,7 +4,7 @@
 
 
 I’m the kind of person who always tries to **understand the world**.  
-For me, learning is a way to uncover how things really behave — whether that’s in science, technology, or everyday life.  
+For me, learning is a way to uncover how things really behave whether that’s in science, technology, or everyday life.  
 
 
 I chose **Chemistry** for my Bachelor’s degree to dive into the **microscopic world**.  
@@ -12,7 +12,7 @@ My thought was simple:
 
 If I can understand how the microscopic world works, it will help me understand the macroscopic world even better.  
 
-From atoms to molecules, from bonds to reactions — Chemistry has shown me the hidden rules of nature.  
+From atoms to molecules, from bonds to reactions, Chemistry has shown me the hidden rules of nature.  
 
 Alongside Chemistry, I wanted to know how **computers** actually function.  
 
@@ -22,7 +22,7 @@ Alongside Chemistry, I wanted to know how **computers** actually function.
 - How registers power a **CPU**  
 
 That curiosity pulled me into **programming and software development**.  
-Now, I see coding like chemistry — small building blocks combining into powerful systems.  
+Now, I see coding like chemistry , small building blocks combining into powerful systems.  
 
 
 ##  Where Am I Now ? 
