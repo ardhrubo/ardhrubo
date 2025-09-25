@@ -92,13 +92,18 @@ I’m trying to bring **science + technology** together:
   </a>
 </p>  
 
-
-## ☕ Wanna give a little suppor ?
+## ☕ Wanna give a little support?
 
 <a href="https://www.buymeacoffee.com/ardhrubo" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="50" />
-</a>  
+</a>
 
+Support my projects by trying DigitalOcean through my referral link!  
+Get $200 free credit for 60 days when you sign up, and I earn credits to keep building great apps.
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7c2473aa0851&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+It's a win-win for everyone.
 
 ## 😄 Wanna here a Jokes ?
 
