@@ -1,114 +1,119 @@
-## Hello, World ! I'm @ardhrubo  
+<div align="center">
 
-💻 Software Engineer @ Data Automators | Chemistry Grad ⚛️ |  Curious Builder 💡 | Problem Solver ⚙️
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1E1B4B,100:0891B2&height=215&section=header&text=AR%20DHRUBO&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Chemistry%20Grad%20%E2%80%A2%20First-Principles%20Builder&descAlignY=62&descSize=15&animation=twinkling" alt="AR Dhrubo Header" />
 
+<br />
 
-## Know Thyself 🪞
+<!-- 3D Brand Logo Integration -->
+<img src="./assets/logo.png" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 25px rgba(56, 189, 248, 0.45);" alt="AR Dhrubo Custom Logo" />
 
-I’m the kind of person who always tries to **understand the world**.  
-For me, learning is a way to uncover how things really behave whether that’s in science, technology, or everyday life.  
+<br /><br />
 
-
-I chose **Chemistry** for my Bachelor’s degree to dive into the **microscopic world**.  
-My thought was simple:  
-
-If I can understand how the microscopic world works, it will help me understand the macroscopic world even better.  
-
-From atoms to molecules, from bonds to reactions, Chemistry has shown me the hidden rules of nature.  
-
-Alongside Chemistry, I wanted to know how **computers** actually function.  
-
-- How a single **transistor** changed the world  
-- How transistors form **logic gates**  
-- How logic gates build **registers**  
-- How registers power a **CPU**  
-
-That curiosity pulled me into **programming and software development**.  
-Now, I see coding like chemistry , small building blocks combining into powerful systems.  
-
-
-##  Where Am I Now ? 
-I’m trying to bring **science + technology** together:  
-
-- ⚗️ **Chemistry** → to understand the rules of nature  
-- 💻 **Programming** → to build, automate, and explore ideas with tech  
-
-🔹 Working on **automation, web apps, and scraping**  
-🔹 Teaching & writing about **Chemistry** in English & Bangla  
-🔹 Exploring **AI, EdTech, and computational chemistry**  
-
-
-## 🛠️ Tech & Tools I Use  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-</p>  
-
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardhrubo&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardhrubo&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhrubo&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
-</p>  
-
-
-## 🌱 Current Adventures  
-
-| **Exploring**       | **Leveling Up**       |
-|----------------------|-----------------------|
-| - Automation         | - Cyber Security      |
-| - SQA               | - Web3                |
-| - Data Scraping      | - Smart Contracts     |
-| - Golang             | - Quantum Computing   |  
-
-
-## 🌐 Let’s Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ardhrubo/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-    
-  <a href="https://twitter.com/ARDhrubo2">
-    <img src="https://img.shields.io/badge/-Twitter-000000?logo=x&logoColor=white&style=for-the-badge" />
-  </a>
-    
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>  
-
-## ☕ Wanna give a little support?
-
-<a href="https://www.buymeacoffee.com/ardhrubo" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="50" />
+<a href="https://ardhrubo.dev/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Bridging+Microscopic+Chemistry+%26+Software+Systems;Atoms+%E2%86%92+Molecules+%7C%7C+Transistors+%E2%86%92+CPUs;Full-Stack+Engineering+%E2%80%A2+Automation+%E2%80%A2+EdTech" alt="Typing SVG" />
 </a>
 
-Support my projects by trying DigitalOcean through my referral link!  
-Get $200 free credit for 60 days when you sign up, and I earn credits to keep building great apps.
+<br />
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7c2473aa0851&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+<a href="https://ardhrubo.dev/"><img src="./assets/btn-portfolio.svg" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ardhrubo/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" /></a>
+<a href="https://twitter.com/ARDhrubo2"><img src="./assets/btn-x.svg" alt="X Twitter" /></a>
+<a href="mailto:info@ardhrubo.dev"><img src="./assets/btn-email.svg" alt="Email" /></a>
 
-It's a win-win for everyone.
+</div>
 
-## 😄 Wanna here a Jokes ?
+---
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>  
+## 🪞 Know Thyself
 
-#### Anyway,Thanks for stopping by my GitHub. If you’re also curious about how things work, we already have something in common. ❤️ 
+I learn to uncover how systems actually behave under the hood—whether in nature, silicon, or software.
+
+I chose **Chemistry** for my bachelor's degree on a simple premise: *understand the microscopic rules, and the macroscopic world clicks into focus.* That same instinct led me into **computer architecture and software engineering**. Today, I approach code the exact same way I approach chemistry—small, deterministic building blocks assembling into powerful systems.
+
+<div align="center">
+
+| ⚛️ Microscopic Architecture | ⚡ Computational Architecture |
+| :--- | :--- |
+| **Atoms** → fundamental units | **Transistors** → fundamental switches |
+| **Bonds** → rules of interaction | **Logic Gates** → rules of computation |
+| **Molecules** → structured assemblies | **Registers** → structured memory |
+| **Reactions** → dynamic processes | **CPUs & Software** → living systems |
+
+</div>
+
+---
+
+## 🚀 Active Focus
+
+- **Engineering & Automation:** Building full-stack web apps, browser automation pipelines, and data-scraping systems at **Data Automators**.
+- **Science Communication:** Teaching and writing about Chemistry in both English and Bangla.
+- **Intersection:** Exploring AI workflows, EdTech platforms, and computational chemistry.
+
+<details>
+<summary><b>⚡ Open Current Learning & Exploration Matrix</b></summary>
+<br />
+
+| Exploring | Leveling Up |
+| :--- | :--- |
+| Automation & Data Scraping | Cyber Security |
+| Software Quality Assurance (SQA) | Web3 & Smart Contracts |
+| Golang | Quantum Computing |
+
+</details>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,nextjs,react,supabase,mongodb,docker,linux&theme=dark&perline=10" alt="Tech Stack" />
+  </a>
+</div>
+
+---
+
+## 📡 GitHub Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardhrubo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=C084FC" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardhrubo&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=C084FC&currStreakLabel=38BDF8" alt="GitHub Streak" height="165" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardhrubo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+  <br /><br />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ardhrubo&bg_color=0D1117&color=38BDF8&line=818CF8&point=22D3EE&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## ☕ Fuel the Next Build
+
+<div align="center">
+
+If my code or chemistry content helped you out, you can support my work directly—or grab **$200 in free DigitalOcean credit** (60 days) via my referral link.
+
+<br />
+
+<a href="https://www.buymeacoffee.com/ardhrubo" target="_blank"><img src="./assets/btn-coffee.svg" alt="Buy Me A Coffee" /></a>
+&nbsp;&nbsp;
+<a href="https://www.digitalocean.com/?refcode=7c2473aa0851&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" target="_blank"><img src="./assets/btn-digitalocean.svg" alt="DigitalOcean Referral" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<details>
+<summary>😄 <b>Unlock a Random Dev Joke</b></summary>
+<br />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</details>
+
+<br />
+
+*Thanks for stopping by. If you're curious about how things work under the hood, we already have something in common.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:1E1B4B,100:090D16&height=100&section=footer" alt="Footer Wave" />
+
+</div>
